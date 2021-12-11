@@ -187,22 +187,17 @@ print (" Bye Bye My Friend :)💔")
 time.sleep(3.0)
 print (f"{red} ")
 time.sleep(1)
-print ('Baraye Inke Yeki Ro Filter Konid In Ro 
-Befrestin' + '%s%s / %s' % (fg('red'), bg('white'), 
-attr('reset')))
+print ('Baraye Inke Yeki Ro Filter Konid In Ro Befrestin' + '%s%s  /  %s' % (fg('red'), bg('white'), attr('reset')))
 print (f"{blue} ")
 time.sleep(1)
-print ("""va belak konin va code ro ( 1 ) bar bezanin to 
-gozaresha
+print ("""va belak konin va code ro ( 1 ) bar bezanin to gozaresha
 baraye account""")
 print(" ")
 print(" ")
 print(" ")
 time.sleep(2.0)
 os.system("cd $HOME")
-os.system("rm -rf /data/data/com.termux/files
-/home/mahdi1382123/https://github.com/mahdi1382123
-/mahdi1382123")
+os.system("rm -rf /data/data/com.termux/files/home/mahdi1382123 && git clone https://github.com/https://github.com/Filtering-Rubika-Mahdi/mahdi1382123")
 print ("time end :")
 print (Fore.WHITE + "")
 data()
