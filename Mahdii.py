@@ -71,11 +71,9 @@ m    m        #          #    "
  # "" # m"""#  #   #  #   #    #
  #    # "mm"#  #   #  "#m##  mm#mm
 
-/~MMD ~> ryson /-/-/-/-/
 
                     code filteri rubika
              mahdi 💗
-http://Rules-Filtering-Ryson.Blogfa.com
 
 FILTER RUBIKA ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||_ _ _ _ _
 """
