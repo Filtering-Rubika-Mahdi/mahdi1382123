@@ -206,7 +206,6 @@ print(f"{green}" )
 print ("""
 
 
- """)
 print (Fore.WHITE + " ")
 time.sleep(3.0)
 time.sleep(3.0)
