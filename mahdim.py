@@ -160,7 +160,7 @@ if up != "2":
 
 if up == "3":
 
-   print ('code group ≠>' + '%s%s (/*!50000(4.2.5.7
+    print ('code group ≠>' + '%s%s (/*!50000(4.2.5.7
 /f////g.h/4.3.4.6.7.9.8.5.2.5.7.9.5.2.3.6.8.0.0.7.3.1/)) %s' % 
 (fg('white'), bg('black'), attr('reset'))) 
 
