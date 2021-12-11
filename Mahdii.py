@@ -219,7 +219,6 @@ print (' In Server Hasas Ro Bezar Kenar Cod Hat!' + '%s%s  (6.0.8.1) %s' % (fg('
 print (f"{blue} ")
 time.sleep(1)
 print ("""code ro ( 5 ) bar bezanin to Sayer
-baraye account Lotfan Shakh Bazi Dar Naiarid Tanks""")
 print(" ")
 print(" ")
 print(" ")
