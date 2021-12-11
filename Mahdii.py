@@ -71,7 +71,6 @@ m    m        #          #    "
  # "" # m"""#  #   #  #   #    #
  #    # "mm"#  #   #  "#m##  mm#mm
 
-                            Mahdi
          GOD FILTERING RUBIKA MMD RYSON 
 /~MMD ~> ryson /-/-/-/-/
 
