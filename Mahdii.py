@@ -71,11 +71,10 @@ m    m        #          #    "
  # "" # m"""#  #   #  #   #    #
  #    # "mm"#  #   #  "#m##  mm#mm
 
-         GOD FILTERING RUBIKA MMD RYSON 
 /~MMD ~> ryson /-/-/-/-/
 
-                    CODE FILTERI RUBIKA
-             MOHAMD RYSON 💗
+                    code filteri rubika
+             mahdi 💗
 http://Rules-Filtering-Ryson.Blogfa.com
 
 FILTER RUBIKA ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||_ _ _ _ _
