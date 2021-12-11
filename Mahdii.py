@@ -170,12 +170,7 @@ Loading . . . .
 . . . . . . .  . . .
  . . . . . . . . . . . .
 
-     █▄█████▄█        COD FILTERING-RUBIKA-RYSON | MMD RYSON
-     █▼▼▼▼▼           MMD @Khalegh_Ryson
-     █                Gh: http://Rules-Filtering-Ryson
-     █▲▲▲▲▲
-     █████████
-      ██ ██""")
+
 
 print(f"{red} ")
 
