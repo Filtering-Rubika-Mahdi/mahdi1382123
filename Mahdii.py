@@ -1,2 +1,249 @@
+# MAMAD RYSON ☘️ 
+print("MMD RYSON")
+print("")
+print("vs")
+print("")
+print("Sjad Makhshosh")
+print("")
+print("Hello")
+print(" ")
+print(" ")
+print("Load . . .")                 
+import os
+# AHA
+os.system("pip install colored")
+os.system("pip install colorama")
+os.system("pip install datetime")
+#importing libs
+import time                                                     
+import sys                                                      
+import colored                                                  
+import colorama                                                 
+import datetime
+from colored import fg, bg, attr
+from colorama import Fore, Back, Style                          
+# code colors
+red='\033[31m'
+green='\033[32m'
+blue='\033[36m'
+pink='\033[35m'
+rang='\033[34m'
+#$CRIPT
 
-#this is bug ! # slm #import library's import os # auto install libs os.system("pip install colored") os.system("pip install colorama") os.system("pip install datetime") #importing libs import time import sys import colored import colorama import datetime from colored import fg, bg, attr from colorama import Fore, Back, Style # code colors red='\033[31m' green='\033[32m' blue='\033[36m' pink='\033[35m' rang='\033[34m' #$CRIPT os.system("clear") print(f"{green} ") print (Fore.WHITE + "") #date() x = str(datetime.datetime.now()) print("started " + (x)) print(f"{blue} ") print (" Script By") print (Fore.YELLOW + "") x = """ mojtaba cassifer bot running.... . . .n . . n. . .dP dP 9b 9b . 4 qXb . dX Xb . dXp t dX. 9Xb .dXb   dXb. dXP .Xb 9XXb._ _.dXXXXb dXXXXbo. dXXXXb dXXXXb._ _.dXXP 9XXXXXXXXXXXXXVXXXXXXXXOo. .oOXXXXXXXXVXXXXXXXXXXXXXXXP 9XXXXXXXXXXXXXXX ~ ~ OOO8b d8OOO ~ ~ XXXXXXXXXXXXXXXXXP 9XXXXXP 9XX * 98v8P * XXP 9XXXXXXXP ~~~ 9X. .db|db. .XP ~~~ )b. .dbo.dP' v 9b.odb. .dX( ,dXXXXXXXXXXXb dXXXXXXXXXXXb. dXXXXXXXXXXXP' . 9XXXXXXXXXXXb dXXXXXXXXXXXXb d|b dXXXXXXXXXXXXb 9XXb' XXXXXb.dX|Xb.dXXXXX' dXXP 9XXXXXX( )XXXXXXP XXXX X. v .X XXXX XP^X' b d' X^XX X. 9 P )X b ' d' """ for c in x: sys.stdout.write(c) sys.stdout.flush() time.sleep(0.02) #⁶6⁶ print(f"{red} ") d = """ in day : 1400/5/19 birthday mji 🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂 🎂🎂🎂 happy my birthday 🎂💙 ⁶6⁶ ▄▀▄ ▄▀▄ ▄█░░▀▀▀▀▀░░█▄ ▄▄ █░░░░░░░░░░░█ ▄▄ █▄▄█ █░░█░░┬░░█░░█ █▄▄█ !!!! Script is free !!!! created by MojTaBa CaSsiFer ☘️ //////id rubik' #new ~> @Server0 off zadam////// Filtering RUBIKA running //////////////////////////////////////////////////////////////////////////....... """ for d in d: sys.stdout.write(d) sys.stdout.flush() time.sleep(0.03) # Mjtba *_* #my cat # ▄▀▄ ▄▀▄ # ▄█░░▀▀▀▀▀░░█▄ # ▄▄ █░░░░░░░░░░░█ ▄▄ # █▄▄█ █░░█░░┬░░█░░█ █▄▄█ time.sleep(4.3) print(f"{green} ") print ("ok welcome friends . 💙 . ") print (Fore.YELLOW + "") time.sleep(1.7) print (" ID RUBIKA @SHUBADEHBAZ IM MOJTABA") print (" ID telegram @Creator_Typeri") print (" New Id rubika : @Sallavati ") print(f"{blue} ") time.sleep(1.0) print ("__________") time.sleep(0.7) print ("#_________") time.sleep(0.6) print ("##________") time.sleep(0.5) print ("###_______") time.sleep(0.4) print ("####______") time.sleep(0.3) print ("#####_____") time.sleep(0.2) print ("######____") time.sleep(0.1) print ("#######___") time.sleep(0.5) print ("########__") time.sleep(0.1) print ("#########_") time.sleep(0.5) print ("##########") print ("") # vared kardane addad baraye gereftan kod up = input(" 2 Code channel & 3 for group & 4 for ac > > > ") print(f"{pink} ") time.sleep(3.0) print(""" update = $ cd $HOME $ rm -rf Filtering-Rubika $ git clone https://gitHub.com/C4ssif3r/Filtering-Rubika """) print(f"{red} ") if up == "2": print ('code for Channel ≠>' + '%s%s %78ilter.%73 %s' % (fg('red'), bg('yellow'), attr('reset'))) if up != "2": print("error - lotfan dorost vared konid") if up == "3": print ('code group ≠>' + '%s%s (/*!50000(4.2.5.7/f////g.h/4.3.4.6.7.9.8.5.2.5.7.9.5.2.3.6.8.0.0.7.3.1/)) %s' % (fg('white'), bg('black'), attr('reset'))) if up != "3": print("error - lotfan dorost vared konid") if up == "4": print ('code for account ≠>' + '%s%s http://ufhttk_26357 %s' % (fg('red'), bg('yellow'), attr('reset'))) if up != "4": print("error - lotfan dorost vared konid") time.sleep(0.6) print(f"{green}" ) print (""" Kanal haye rubikam = @Cassif3r - @Hi_cassifer @Hell_RaP - @HaNi_Poot """) print (""" link gap rubikam ==>>> rubika.ir/joing/BCJHJHHD0MNIIVRKYYGTJTQJRNPBIIJJ """) print (Fore.WHITE + " ") time.sleep(3.0) print (" Bye Bye My Friend :)💔") time.sleep(3.0) print (f"{red} ") time.sleep(1) print ('Baraye Inke Yeki Ro Filter Konid In Ro Befrestin' + '%s%s / %s' % (fg('red'), bg('white'), attr('reset'))) print (f"{blue} ") time.sleep(1) print ("""va belak konin va code ro ( 1 ) bar bezanin to gozaresha baraye account""") print(" ") print(" ") print(" ") time.sleep(2.0) os.system("cd $HOME") os.system("rm -rf /data/data/com.termux/files/home/Filtering-Rubika && git clone https://github.com/C4ssif3r/Filtering-Rubika") print ("time end :") print (Fore.WHITE + "") date()
+os.system("clear")
+
+print (Fore.WHITE + "")
+
+#date()
+x = str(datetime.datetime.now())
+
+print("started " + (x))
+
+print(f"{blue} ")
+print ("      GOD FILTERING")
+print (Fore.YELLOW + "")
+x = """ mohamd Ryson Loading ....
+----RYSON.-------RYSON-------RYSON-----RYSON--------RYSON----RYSON------RYSON------RYSON-----RYSON . . .
+
+
+                  ---------------------------------------
+                -------------------------------------------
+         ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+         🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪
+          ●●●●●●●●●●●●●●●●●□■●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+              ################################################
+
+"""
+for c in x:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.02)
+#⁶6⁶
+print(f"{red} ")
+d = """
+
+I Lobe You-
+Manufacturer- ryson
+
+m    m        #          #    "
+ ##  ##  mmm   # mm    mmm#  mmm
+ # ## # "   #  #"  #  #" "#    #
+ # "" # m"""#  #   #  #   #    #
+ #    # "mm"#  #   #  "#m##  mm#mm
+
+                            RYS0N
+         GOD FILTERING RUBIKA MMD RYSON 
+/~MMD ~> ryson /-/-/-/-/
+
+                    CODE FILTERI RUBIKA
+             MOHAMD RYSON 💗
+http://Rules-Filtering-Ryson.Blogfa.com
+
+FILTER RUBIKA ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||_ _ _ _ _
+"""
+for d in d:
+        sys.stdout.write(d)
+        sys.stdout.flush()
+        time.sleep(0.03)
+# MAMAD*_*
+#          ▄▀▄   I LOVE YOU▄▀▄
+#         All Chaker Ton Mmd 
+#
+#
+
+time.sleep(4.3)
+print(f"{green} ")
+print ("Play mamad ryson - - - ! ")
+print (Fore.YELLOW + "")
+time.sleep(1.7)
+print ("                       ID RUBIKA @Conquest_Rayson IM MOHAMD")
+print ("                         ID telegram @Creator_Rayson")
+print ("                          WebLog ghavanin : Immamadryson.Blogfa.com ")
+print(f"{blue} ")
+time.sleep(1.0)
+print ("!!")
+time.sleep(0.7)
+print ("!!I")
+time.sleep(0.7)
+print ("!!!M")
+time.sleep(0.6)
+print ("!!!!M")
+time.sleep(0.5)
+print ("!!!!!M")
+time.sleep(0.4)
+print ("!!!!!!Y")
+time.sleep(0.3)
+print ("!!!!!!!S")
+time.sleep(0.2)
+print ("!!!!!!!!O")
+time.sleep(0.1)
+print ("!!!!!!!!!!N")
+time.sleep(0.5)
+print ("!!!!!!!!!!!A")
+time.sleep(0.1)
+print ("!!!!!!!!!!!!M")
+time.sleep(0.5)
+print ("!!!!!!!!!!!!!!")
+time.sleep(0.1)
+print ("!!!!!!!!!!!!!!!")
+time.sleep(0.5)
+print ("!!!!!!!!!!!!!!")
+time.sleep(0.1)
+print ("!!!!!!!!!!!!!")
+time.sleep(0.5)
+print ("!!!!!!!!!!!!")
+time.sleep(1.0)print ("!!!!!!!!!!!")
+time.sleep(0.5)
+print ("!!!!!!!!!!")
+time.sleep(0.1)
+print ("!!!!!!!!!")
+time.sleep(0.5)
+print ("!!!!!!!!")
+time.sleep(1.0)
+print ("!!!!!!!")
+time.sleep(0.5)
+print ("!!!!!!")
+time.sleep(1.0)
+print ("!!!!!")
+time.sleep(0.5)
+print ("!!!!")
+time.sleep(1.0)
+print ("!!!")
+time.sleep(0.5)
+print ("!!")
+time.sleep(1.0)
+print ("!")
+time.sleep(0.5)
+print ("")
+print (" ")
+print ("")
+# vared kardane addad baraye gereftan kod
+up = input("Code [Chanel] (1) || Code [Grup] (2) || {Code [Account] (3)} >> ")
+print(f"{pink} ")
+time.sleep(3.0)
+print(""" in the name of God 
+_____________
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Loading . . . .
+. . . . . . .  . . .
+ . . . . . . . . . . . .
+ HA HA HA 💣 💣 💣 💣 💣 💣 💣 💣
+
+     █████████
+     █▄█████▄█        COD FILTERING-RUBIKA-RYSON | MMD RYSON
+     █▼▼▼▼▼           MMD @Khalegh_Ryson
+     █                Gh: http://Rules-Filtering-Ryson
+     █▲▲▲▲▲
+     █████████
+      ██ ██""")
+
+print(f"{red} ")
+
+
+
+if up == "1":
+
+        print ('code for Channel ≠>' + '%s%s (4.2.3.0/g1/k0/j/j/f./a/a/e/f.g/////f/g.h////F/h1.&//6.2.9.0/7.0.3.6) %s' % (fg('red'), bg('yellow'), attr('reset')))
+
+
+if up != "1":
+        print("Bismillah Cod FILTER")
+
+
+if up == "2":
+        print ('code group ≠>' + '%s%s (http://8.9.0.1/F./h.0/7.0.3.2/.7.8.0.2/3.8.6.4/5.3.6.8/6.0.3.2/0.3.9.0/3/0/4.3.0/70) %s' % (fg('white'), bg('black'), attr('reset')))
+
+
+if up != "2":
+
+        print("Code Sakhteh Shode Tavasot Ryson")
+
+
+if up == "3":
+
+        print ('code Filter account ≠>' + '%s%s (9.0.4.2.c1/c.h.p.k.w/4044/6.2.9.0/4.3.3.0/g0/k/j/a/f7&//7.8.9.0.5.7.8.3) %s' % (fg('red'), bg('yellow'), attr('reset')))
+
+
+
+if up != "3":
+        print("Khalegh Ryson")
+
+time.sleep(0.6)
+print(f"{green}" )
+print ("""
+Kanal rubika MMD RYSON =
+
+@Creator_Rayson
+ """)
+print (" Kanal rubikam RYSON=>> https://rubika.ir/joinc/JDDGCJF0YETLWSRZLYDCJWIOBMCANFKJ")
+print (Fore.WHITE + " ")
+time.sleep(3.0)
+print (" Ostoreh Filtering All Mmd Ryson")
+time.sleep(3.0)
+print (f"{red} ")
+time.sleep(1)
+print (' In Server Hasas Ro Bezar Kenar Cod Hat!' + '%s%s  (6.0.8.1) %s' % (fg('red'), bg('white'), attr('reset')))
+print (f"{blue} ")
+time.sleep(1)
+print ("""code ro ( 5 ) bar bezanin to Sayer
+baraye account Lotfan Shakh Bazi Dar Naiarid Tanks""")
+print(" ")
+print(" ")
+print(" ")
+print ("          THE END!")
+print("")
+print("up Kardan Script👉: git clone https://github.com/Filtering-Rubika-Ryson/Filter-Rubika-Ryson  &&    cd Filter-Rubika-Ryson    &&   python Filtering.py   ")
+print("")
+print("")
+print("         </MMD RYSON> ❤️❤️")
+print("")
+print (Fore.WHITE + "")
