@@ -204,14 +204,11 @@ if up != "3":
 time.sleep(0.6)
 print(f"{green}" )
 print ("""
-Kanal rubika MMD RYSON =
 
-@Creator_Rayson
+
  """)
-print (" Kanal rubikam RYSON=>> https://rubika.ir/joinc/JDDGCJF0YETLWSRZLYDCJWIOBMCANFKJ")
 print (Fore.WHITE + " ")
 time.sleep(3.0)
-print (" Ostoreh Filtering All Mmd Ryson")
 time.sleep(3.0)
 print (f"{red} ")
 time.sleep(1)
@@ -224,9 +221,7 @@ print(" ")
 print(" ")
 print ("          THE END!")
 print("")
-print("up Kardan Script👉: git clone https://github.com/Filtering-Rubika-Ryson/Filter-Rubika-Ryson  &&    cd Filter-Rubika-Ryson    &&   python Filtering.py   ")
 print("")
 print("")
-print("         </MMD RYSON> ❤️❤️")
 print("")
 print (Fore.WHITE + "")
