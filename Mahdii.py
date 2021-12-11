@@ -153,7 +153,6 @@ print ("")
 up = input("Code [Chanel] (1) || Code [Grup] (2) || {Code [Account] (3)} >> ")
 print(f"{pink} ")
 time.sleep(3.0)
-print(""" in the name of God 
 _____________
 1
 2
