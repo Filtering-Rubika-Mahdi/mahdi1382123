@@ -72,7 +72,6 @@ m    m        #          #    "
  #    # "mm"#  #   #  "#m##  mm#mm
 
 
-FILTER RUBIKA //////////////////////////////////////////////////_ _ _ _ _
 """
 for d in d:
         sys.stdout.write(d)
