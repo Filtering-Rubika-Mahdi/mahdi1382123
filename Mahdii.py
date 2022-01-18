@@ -1,11 +1,7 @@
 #mahdi
 print ("mahditeror")
 up = input(" 2 Code channel & 3 for group & 4 for ac > > > ")       
-  update =
 
-$       cd $HOME
-$       rm -rf mahdi1382123
-$       https://github.com/Filtering-Rubika-Mahdi
 if up == "2":
 
         print ('code for Channel ≠>' + '%s%s %78ilter.%73 %s' % (fg('red'), bg('yellow'), attr('reset')))
@@ -19,6 +15,10 @@ if up == "4":
 
         print ('code for account ≠>' + '%s%s http://ufhttk_26357 %s' % (fg('red'), bg('yellow'), attr('reset')))
 
+  update =
+$       cd $HOME
+$       rm -rf mahdi1382123
+$       https://github.com/Filtering-Rubika-Mahdi
 
 print(f"{green}" )
 print ("shakh nashid")
