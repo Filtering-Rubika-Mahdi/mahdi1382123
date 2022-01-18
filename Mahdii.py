@@ -17,4 +17,3 @@ if up == "4":
 
 print(f"{green}" )
 print ("shakh nashid")
-Bay typ
