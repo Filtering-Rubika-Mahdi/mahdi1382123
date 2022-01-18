@@ -15,11 +15,6 @@ if up == "4":
 
         print ('code for account ≠>' + '%s%s http://ufhttk_26357 %s' % (fg('red'), bg('yellow'), attr('reset')))
 
-  update =
-$       cd $HOME
-$       rm -rf mahdi1382123
-$       https://github.com/Filtering-Rubika-Mahdi
-
 print(f"{green}" )
 print ("shakh nashid")
 Bay typ
