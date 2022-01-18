@@ -1,5 +1,4 @@
 #mahdi
-filtering rubika running/////////////////////////////...
 print ("mahditeror")
 up = input(" 2 Code channel & 3 for group & 4 for ac > > > ")       
   update =
